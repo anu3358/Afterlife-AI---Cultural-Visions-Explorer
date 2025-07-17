@@ -1,6 +1,6 @@
 # Afterlife AI - Cultural Visions Simulator
 # A comprehensive implementation for simulating cultural visions of the afterlife
-
+# Done by ANURAG if anybody copies it i will put legal case against it
 import json
 import pandas as pd
 import numpy as np
